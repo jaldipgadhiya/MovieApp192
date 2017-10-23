@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 
 /**
- * @author Preetika
+ * Created by Jal on 22-10-2017.
  *
  */
 public class NetworkStatus {

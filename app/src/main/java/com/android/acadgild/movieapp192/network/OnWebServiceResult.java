@@ -4,7 +4,7 @@ package com.android.acadgild.movieapp192.network;
 import com.android.acadgild.movieapp192.utils.CommonUtilities;
 
 /**
- * @author Preetika
+ * Created by Jal on 22-10-2017.
  *
  */
 public interface OnWebServiceResult {
